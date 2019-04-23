@@ -1,0 +1,508 @@
+{
+  "total_results": 2,
+  "items": [
+    {
+      "id": 12503,
+      "title": "Braveheart",
+      "full_path": "/au/movie/braveheart",
+      "full_paths": {
+        "MOVIE_DETAIL_OVERVIEW": "/au/movie/braveheart"
+      },
+      "poster": "/poster/8655588/{profile}",
+      "short_description": "Enraged at the slaughter of Murron, his new bride and childhood love, Scottish warrior William Wallace slays a platoon of the local English lord's soldiers. This leads the village to revolt and, eventually, the entire country to rise up against English rule.",
+      "original_release_year": 1995,
+      "tmdb_popularity": 16.552,
+      "object_type": "movie",
+      "original_title": "Braveheart",
+      "localized_release_date": "1995-06-01",
+      "offers": [
+        {
+          "monetization_type": "buy",
+          "provider_id": 68,
+          "retail_price": 12.99,
+          "currency": "AUD",
+          "urls": {
+            "standard_web": "https://www.microsoft.com/en-au/p/braveheart/8d6kgwzl5cqg?ct=movie"
+          },
+          "presentation_type": "hd",
+          "date_created_provider_id": "2019-02-20_68",
+          "date_created": "2019-02-20",
+          "country": "AU"
+        },
+        {
+          "monetization_type": "rent",
+          "provider_id": 68,
+          "retail_price": 3.99,
+          "currency": "AUD",
+          "urls": {
+            "standard_web": "https://www.microsoft.com/en-au/p/braveheart/8d6kgwzl5cqg?ct=movie"
+          },
+          "presentation_type": "sd",
+          "date_created_provider_id": "2019-02-20_68",
+          "date_created": "2019-02-20",
+          "country": "AU"
+        },
+        {
+          "monetization_type": "rent",
+          "provider_id": 68,
+          "retail_price": 4.99,
+          "currency": "AUD",
+          "urls": {
+            "standard_web": "https://www.microsoft.com/en-au/p/braveheart/8d6kgwzl5cqg?ct=movie"
+          },
+          "presentation_type": "hd",
+          "date_created_provider_id": "2019-02-20_68",
+          "date_created": "2019-02-20",
+          "country": "AU"
+        },
+        {
+          "monetization_type": "buy",
+          "provider_id": 68,
+          "retail_price": 11.99,
+          "currency": "AUD",
+          "urls": {
+            "standard_web": "https://www.microsoft.com/en-au/p/braveheart/8d6kgwzl5cqg?ct=movie"
+          },
+          "presentation_type": "sd",
+          "date_created_provider_id": "2019-02-20_68",
+          "date_created": "2019-02-20",
+          "country": "AU"
+        },
+        {
+          "monetization_type": "flatrate",
+          "provider_id": 134,
+          "currency": "AUD",
+          "urls": {
+            "standard_web": "https://www.foxtel.com.au/foxtelplay/build/package?execution=e1s1"
+          },
+          "presentation_type": "sd",
+          "date_created_provider_id": "2018-12-01_134",
+          "date_created": "2018-12-01",
+          "country": "AU"
+        },
+        {
+          "monetization_type": "buy",
+          "provider_id": 192,
+          "retail_price": 11.99,
+          "currency": "AUD",
+          "urls": {
+            "standard_web": "https://www.youtube.com/watch?v=2eQLnWcprUI"
+          },
+          "presentation_type": "sd",
+          "date_created_provider_id": "2018-10-19_192",
+          "date_created": "2018-10-19",
+          "country": "AU"
+        },
+        {
+          "monetization_type": "buy",
+          "provider_id": 3,
+          "retail_price": 11.99,
+          "currency": "AUD",
+          "urls": {
+            "standard_web": "https://play.google.com/store/movies/details/Braveheart?gl=AU&hl=en&id=2eQLnWcprUI"
+          },
+          "presentation_type": "sd",
+          "date_created_provider_id": "2018-10-19_3",
+          "date_created": "2018-10-19",
+          "country": "AU"
+        },
+        {
+          "monetization_type": "rent",
+          "provider_id": 2,
+          "retail_price": 2.99,
+          "last_change_retail_price": 4.99,
+          "last_change_difference": -2,
+          "last_change_percent": -40.080162048339844,
+          "last_change_date": "2019-04-09",
+          "last_change_date_provider_id": "2019-04-09_2",
+          "currency": "AUD",
+          "urls": {
+            "standard_web": "https://itunes.apple.com/au/movie/braveheart/id875149353"
+          },
+          "presentation_type": "4k",
+          "date_created_provider_id": "2018-07-06_2",
+          "date_created": "2018-07-06",
+          "country": "AU"
+        },
+        {
+          "monetization_type": "buy",
+          "provider_id": 2,
+          "retail_price": 4.99,
+          "last_change_retail_price": 12.99,
+          "last_change_difference": -8,
+          "last_change_percent": -61.58583450317383,
+          "last_change_date": "2019-04-09",
+          "last_change_date_provider_id": "2019-04-09_2",
+          "currency": "AUD",
+          "urls": {
+            "standard_web": "https://itunes.apple.com/au/movie/braveheart/id875149353"
+          },
+          "presentation_type": "4k",
+          "date_created_provider_id": "2018-07-06_2",
+          "date_created": "2018-07-06",
+          "country": "AU"
+        },
+        {
+          "monetization_type": "buy",
+          "provider_id": 3,
+          "retail_price": 12.99,
+          "currency": "AUD",
+          "urls": {
+            "standard_web": "https://play.google.com/store/movies/details/Braveheart?gl=AU&hl=en&id=2eQLnWcprUI"
+          },
+          "presentation_type": "hd",
+          "date_created_provider_id": "2018-06-06_3",
+          "date_created": "2018-06-06",
+          "country": "AU"
+        },
+        {
+          "monetization_type": "rent",
+          "provider_id": 192,
+          "retail_price": 4.99,
+          "currency": "AUD",
+          "urls": {
+            "standard_web": "https://www.youtube.com/watch?v=2eQLnWcprUI"
+          },
+          "presentation_type": "hd",
+          "date_created_provider_id": "2018-06-06_192",
+          "date_created": "2018-06-06",
+          "country": "AU"
+        },
+        {
+          "monetization_type": "rent",
+          "provider_id": 3,
+          "retail_price": 4.99,
+          "currency": "AUD",
+          "urls": {
+            "standard_web": "https://play.google.com/store/movies/details/Braveheart?gl=AU&hl=en&id=2eQLnWcprUI"
+          },
+          "presentation_type": "hd",
+          "date_created_provider_id": "2018-06-06_3",
+          "date_created": "2018-06-06",
+          "country": "AU"
+        },
+        {
+          "monetization_type": "buy",
+          "provider_id": 192,
+          "retail_price": 12.99,
+          "currency": "AUD",
+          "urls": {
+            "standard_web": "https://www.youtube.com/watch?v=2eQLnWcprUI"
+          },
+          "presentation_type": "hd",
+          "date_created_provider_id": "2018-06-06_192",
+          "date_created": "2018-06-06",
+          "country": "AU"
+        },
+        {
+          "monetization_type": "buy",
+          "provider_id": 2,
+          "retail_price": 4.99,
+          "last_change_retail_price": 12.99,
+          "last_change_difference": -8,
+          "last_change_percent": -61.58583450317383,
+          "last_change_date": "2019-04-09",
+          "last_change_date_provider_id": "2019-04-09_2",
+          "currency": "AUD",
+          "urls": {
+            "standard_web": "https://itunes.apple.com/au/movie/braveheart/id875149353?uo=4&at=1000l3V2"
+          },
+          "presentation_type": "hd",
+          "date_created_provider_id": "2000-01-01_2",
+          "date_created": "2000-01-01",
+          "country": "AU"
+        },
+        {
+          "monetization_type": "rent",
+          "provider_id": 2,
+          "retail_price": 2.99,
+          "last_change_retail_price": 4.99,
+          "last_change_difference": -2,
+          "last_change_percent": -40.080162048339844,
+          "last_change_date": "2019-04-09",
+          "last_change_date_provider_id": "2019-04-09_2",
+          "currency": "AUD",
+          "urls": {
+            "standard_web": "https://itunes.apple.com/au/movie/braveheart/id875149353?uo=4&at=1000l3V2"
+          },
+          "presentation_type": "sd",
+          "date_created_provider_id": "2000-01-01_2",
+          "date_created": "2000-01-01",
+          "country": "AU"
+        },
+        {
+          "monetization_type": "rent",
+          "provider_id": 2,
+          "retail_price": 2.99,
+          "last_change_retail_price": 4.99,
+          "last_change_difference": -2,
+          "last_change_percent": -40.080162048339844,
+          "last_change_date": "2019-04-09",
+          "last_change_date_provider_id": "2019-04-09_2",
+          "currency": "AUD",
+          "urls": {
+            "standard_web": "https://itunes.apple.com/au/movie/braveheart/id875149353?uo=4&at=1000l3V2"
+          },
+          "presentation_type": "hd",
+          "date_created_provider_id": "2000-01-01_2",
+          "date_created": "2000-01-01",
+          "country": "AU"
+        },
+        {
+          "monetization_type": "buy",
+          "provider_id": 2,
+          "retail_price": 4.99,
+          "last_change_retail_price": 11.99,
+          "last_change_difference": -7,
+          "last_change_percent": -58.38198471069336,
+          "last_change_date": "2019-04-09",
+          "last_change_date_provider_id": "2019-04-09_2",
+          "currency": "AUD",
+          "urls": {
+            "standard_web": "https://itunes.apple.com/au/movie/braveheart/id875149353?uo=4&at=1000l3V2"
+          },
+          "presentation_type": "sd",
+          "date_created_provider_id": "2000-01-01_2",
+          "date_created": "2000-01-01",
+          "country": "AU"
+        },
+        {
+          "monetization_type": "buy",
+          "provider_id": 18,
+          "retail_price": 11.99,
+          "currency": "AUD",
+          "urls": {
+            "standard_web": "https://store.playstation.com/#!/en-au/cid=UV0010-NPVA23561_CN-0000000000038582"
+          },
+          "presentation_type": "sd",
+          "date_created_provider_id": "2000-01-01_18",
+          "date_created": "2000-01-01",
+          "country": "AU"
+        },
+        {
+          "monetization_type": "buy",
+          "provider_id": 18,
+          "retail_price": 12.99,
+          "currency": "AUD",
+          "urls": {
+            "standard_web": "https://store.playstation.com/#!/en-au/cid=UV0010-NPVA23561_CN-0000000000038582"
+          },
+          "presentation_type": "hd",
+          "date_created_provider_id": "2000-01-01_18",
+          "date_created": "2000-01-01",
+          "country": "AU"
+        },
+        {
+          "monetization_type": "rent",
+          "provider_id": 18,
+          "retail_price": 3.99,
+          "currency": "AUD",
+          "urls": {
+            "standard_web": "https://store.playstation.com/#!/en-au/cid=UV0010-NPVA23561_CN-0000000000038582"
+          },
+          "presentation_type": "sd",
+          "date_created_provider_id": "2000-01-01_18",
+          "date_created": "2000-01-01",
+          "country": "AU"
+        },
+        {
+          "monetization_type": "rent",
+          "provider_id": 18,
+          "retail_price": 4.99,
+          "currency": "AUD",
+          "urls": {
+            "standard_web": "https://store.playstation.com/#!/en-au/cid=UV0010-NPVA23561_CN-0000000000038582"
+          },
+          "presentation_type": "hd",
+          "date_created_provider_id": "2000-01-01_18",
+          "date_created": "2000-01-01",
+          "country": "AU"
+        }
+      ],
+      "scoring": [
+        {
+          "provider_type": "tomato_userrating:rating",
+          "value": 2
+        },
+        {
+          "provider_type": "tmdb:score",
+          "value": 7.9
+        },
+        {
+          "provider_type": "tmdb:id",
+          "value": 197
+        },
+        {
+          "provider_type": "tomato:meter",
+          "value": 78
+        },
+        {
+          "provider_type": "tomato:score",
+          "value": 78
+        },
+        {
+          "provider_type": "tmdb:popularity",
+          "value": 16.552
+        },
+        {
+          "provider_type": "imdb:score",
+          "value": 8.4
+        },
+        {
+          "provider_type": "tomato_userrating:score",
+          "value": 85
+        },
+        {
+          "provider_type": "tomato_userrating:meter",
+          "value": 85
+        },
+        {
+          "provider_type": "tomato:id",
+          "value": 12866
+        },
+        {
+          "provider_type": "metacritic:score",
+          "value": 68
+        },
+        {
+          "provider_type": "tomato:rating",
+          "value": 1
+        }
+      ],
+      "external_ids": [
+        {
+          "provider": "imdb",
+          "external_id": "tt0112573"
+        },
+        {
+          "provider": "tmdb",
+          "external_id": "197"
+        }
+      ],
+      "original_language": "en",
+      "age_certification": "MA15+",
+      "runtime": 177,
+      "cinema_release_date": "1995-06-01",
+      "cinema_release_week": "1995_22"
+    },
+    {
+      "id": 78499,
+      "title": "After Braveheart",
+      "full_path": "/au/tv-show/after-braveheart",
+      "full_paths": {
+        "SHOW_DETAIL_OVERVIEW": "/au/tv-show/after-braveheart"
+      },
+      "short_description": "A docudrama telling the story of the events that unfolded when a Scottish army led by Robert Bruce tried to drive the English out of Ireland 700 years ago.",
+      "original_release_year": 2015,
+      "tmdb_popularity": 0.6,
+      "object_type": "show",
+      "original_title": "After Braveheart",
+      "offers": [
+        {
+          "type": "aggregated",
+          "monetization_type": "flatrate",
+          "provider_id": 119,
+          "urls": {
+            "standard_web": "https://www.primevideo.com/detail/After-Braveheart/0NHHRI3B61OMAAUJDBVR6SOEVI?ie=UTF8&linkCode=xm2",
+            "deeplink_android": "intent://app.primevideo.com/watch?contentType=TV&gti=amzn1.dv.gti.feb49f3c-c8cc-f429-ad04-f72917dc6874&ie=UTF8&linkCode=xm2&ref_=dv_web_dp_mv_play_feature&territory=AU#Intent;scheme=https;package=com.amazon.avod.thirdpartyclient;end",
+            "deeplink_ios": "https://app.primevideo.com/watch?contentType=TV&gti=amzn1.dv.gti.feb49f3c-c8cc-f429-ad04-f72917dc6874&ie=UTF8&linkCode=xm2&ref_=dv_web_dp_mv_play_feature&territory=AU"
+          },
+          "audio_languages": [
+            "en"
+          ],
+          "presentation_type": "hd",
+          "element_count": 1,
+          "new_element_count": 1,
+          "date_created_provider_id": "2019-03-06_119",
+          "date_created": "2019-03-06",
+          "country": "AU"
+        },
+        {
+          "type": "aggregated",
+          "monetization_type": "flatrate",
+          "provider_id": 119,
+          "urls": {
+            "standard_web": "https://www.primevideo.com/detail/After-Braveheart/0NHHRI3B61OMAAUJDBVR6SOEVI?ie=UTF8&linkCode=xm2"
+          },
+          "audio_languages": [
+            "en"
+          ],
+          "presentation_type": "sd",
+          "element_count": 1,
+          "new_element_count": 1,
+          "date_created_provider_id": "2019-03-06_119",
+          "date_created": "2019-03-06",
+          "country": "AU"
+        },
+        {
+          "type": "aggregated",
+          "monetization_type": "ads",
+          "provider_id": 73,
+          "urls": {
+            "standard_web": "http://tubitv.com/tv-shows/449482/"
+          },
+          "presentation_type": "sd",
+          "element_count": 1,
+          "new_element_count": 1,
+          "date_created_provider_id": "2018-07-20_73",
+          "date_created": "2018-07-20",
+          "country": "AU"
+        },
+        {
+          "type": "aggregated",
+          "monetization_type": "buy",
+          "provider_id": 3,
+          "retail_price": 23.99,
+          "currency": "AUD",
+          "urls": {
+            "standard_web": "https://play.google.com/store/tv/show?amp=&cdid=tvseason-nDXS3kCCd4P1YKW55QI-Tw&gl=AU&hl=en&id=AJRAt_YyJKg"
+          },
+          "presentation_type": "hd",
+          "element_count": 1,
+          "new_element_count": 1,
+          "date_created_provider_id": "2019-02-04_3",
+          "date_created": "2019-02-04",
+          "country": "AU"
+        },
+        {
+          "type": "aggregated",
+          "monetization_type": "buy",
+          "provider_id": 3,
+          "retail_price": 18.49,
+          "currency": "AUD",
+          "urls": {
+            "standard_web": "https://play.google.com/store/tv/show?amp=&cdid=tvseason-nDXS3kCCd4P1YKW55QI-Tw&gl=AU&hl=en&id=AJRAt_YyJKg"
+          },
+          "presentation_type": "sd",
+          "element_count": 1,
+          "new_element_count": 1,
+          "date_created_provider_id": "2019-02-04_3",
+          "date_created": "2019-02-04",
+          "country": "AU"
+        }
+      ],
+      "scoring": [
+        {
+          "provider_type": "tmdb:popularity",
+          "value": 0.6
+        },
+        {
+          "provider_type": "imdb:score",
+          "value": 7.6
+        }
+      ],
+      "external_ids": [
+        {
+          "provider": "tmdb",
+          "external_id": "76865"
+        },
+        {
+          "provider": "imdb",
+          "external_id": "tt4383716"
+        }
+      ],
+      "original_language": "en",
+      "max_season_number": 1
+    }
+  ]
+}

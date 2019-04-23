@@ -1,0 +1,346 @@
+{
+  "total_results": 3,
+  "items": [
+    {
+      "id": 188758,
+      "title": "Dr. Strangelove or: How I Learned to Stop Worrying and Love the Bomb",
+      "full_path": "/au/movie/dr-strangelove",
+      "full_paths": {
+        "MOVIE_DETAIL_OVERVIEW": "/au/movie/dr-strangelove"
+      },
+      "poster": "/poster/8670402/{profile}",
+      "short_description": "After the insane General Jack D. Ripper initiates a nuclear strike on the Soviet Union, a war room full of politicians, generals and a Russian diplomat all frantically try to stop the nuclear strike.",
+      "original_release_year": 1964,
+      "tmdb_popularity": 11.528,
+      "object_type": "movie",
+      "original_title": "Dr. Strangelove or: How I Learned to Stop Worrying and Love the Bomb",
+      "offers": [
+        {
+          "monetization_type": "rent",
+          "provider_id": 68,
+          "retail_price": 3.99,
+          "currency": "AUD",
+          "urls": {
+            "standard_web": "https://www.microsoft.com/en-au/p/dr-strangelove/8d6kgwzl5skt?ct=movie"
+          },
+          "presentation_type": "sd",
+          "date_created_provider_id": "2019-02-20_68",
+          "date_created": "2019-02-20",
+          "country": "AU"
+        },
+        {
+          "monetization_type": "rent",
+          "provider_id": 68,
+          "retail_price": 4.99,
+          "currency": "AUD",
+          "urls": {
+            "standard_web": "https://www.microsoft.com/en-au/p/dr-strangelove/8d6kgwzl5skt?ct=movie"
+          },
+          "presentation_type": "hd",
+          "date_created_provider_id": "2019-02-20_68",
+          "date_created": "2019-02-20",
+          "country": "AU"
+        },
+        {
+          "monetization_type": "buy",
+          "provider_id": 68,
+          "retail_price": 12.99,
+          "currency": "AUD",
+          "urls": {
+            "standard_web": "https://www.microsoft.com/en-au/p/dr-strangelove/8d6kgwzl5skt?ct=movie"
+          },
+          "presentation_type": "sd",
+          "date_created_provider_id": "2019-02-20_68",
+          "date_created": "2019-02-20",
+          "country": "AU"
+        },
+        {
+          "monetization_type": "buy",
+          "provider_id": 68,
+          "retail_price": 14.99,
+          "currency": "AUD",
+          "urls": {
+            "standard_web": "https://www.microsoft.com/en-au/p/dr-strangelove/8d6kgwzl5skt?ct=movie"
+          },
+          "presentation_type": "hd",
+          "date_created_provider_id": "2019-02-20_68",
+          "date_created": "2019-02-20",
+          "country": "AU"
+        },
+        {
+          "monetization_type": "buy",
+          "provider_id": 2,
+          "retail_price": 12.99,
+          "currency": "AUD",
+          "urls": {
+            "standard_web": "https://itunes.apple.com/au/movie/dr-strangelove-or-how-i-learned-to-stop-worrying-love/id263616854?uo=4&at=1000l3V2"
+          },
+          "presentation_type": "sd",
+          "date_created_provider_id": "2018-01-25_2",
+          "date_created": "2018-01-25",
+          "country": "AU"
+        },
+        {
+          "monetization_type": "buy",
+          "provider_id": 2,
+          "retail_price": 14.99,
+          "currency": "AUD",
+          "urls": {
+            "standard_web": "https://itunes.apple.com/au/movie/dr-strangelove-or-how-i-learned-to-stop-worrying-love/id263616854?uo=4&at=1000l3V2"
+          },
+          "presentation_type": "hd",
+          "date_created_provider_id": "2018-01-25_2",
+          "date_created": "2018-01-25",
+          "country": "AU"
+        }
+      ],
+      "scoring": [
+        {
+          "provider_type": "tomato_userrating:meter",
+          "value": 94
+        },
+        {
+          "provider_type": "tomato:id",
+          "value": 12368
+        },
+        {
+          "provider_type": "tmdb:popularity",
+          "value": 11.528
+        },
+        {
+          "provider_type": "metacritic:score",
+          "value": 96
+        },
+        {
+          "provider_type": "tomato:rating",
+          "value": 1
+        },
+        {
+          "provider_type": "tomato_userrating:score",
+          "value": 94
+        },
+        {
+          "provider_type": "tmdb:id",
+          "value": 935
+        },
+        {
+          "provider_type": "tomato_userrating:rating",
+          "value": 2
+        },
+        {
+          "provider_type": "tomato:score",
+          "value": 99
+        },
+        {
+          "provider_type": "tomato:meter",
+          "value": 99
+        },
+        {
+          "provider_type": "imdb:score",
+          "value": 8.4
+        },
+        {
+          "provider_type": "tmdb:score",
+          "value": 8.1
+        }
+      ],
+      "external_ids": [
+        {
+          "provider": "imdb",
+          "external_id": "tt0057012"
+        },
+        {
+          "provider": "tmdb",
+          "external_id": "935"
+        }
+      ],
+      "original_language": "en",
+      "age_certification": "PG",
+      "runtime": 93
+    },
+    {
+      "id": 30062,
+      "title": "Big Thing",
+      "full_path": "/au/tv-show/big-thing",
+      "full_paths": {
+        "SHOW_DETAIL_OVERVIEW": "/au/tv-show/big-thing"
+      },
+      "poster": "/poster/11620040/{profile}",
+      "short_description": "Big Thing is a 2010 South Korean television drama based on manhwa artist Park In-kwon's comic Daemul, and stars Go Hyun-jung as Korea's first female president. Number one in its timeslot for 11 consecutive weeks, it gained successful ratings due to its stellar cast and story arcs taken from topical and controversial headlines.",
+      "original_release_year": 2010,
+      "tmdb_popularity": 0.631,
+      "object_type": "show",
+      "original_title": "대물",
+      "offers": [
+        {
+          "type": "aggregated",
+          "monetization_type": "flatrate",
+          "provider_id": 119,
+          "urls": {
+            "standard_web": "https://www.primevideo.com/detail/Lady-President-OR-How-I-Learned-to-Stop-Worrying-About-Idiots-and-Their-Dumb-Female-Stereotypes/0M6KCFR8CGYZE2EPDBJL2R6GAR?ie=UTF8&linkCode=xm2",
+            "deeplink_android": "intent://app.primevideo.com/watch?contentType=TV&gti=amzn1.dv.gti.deafd215-2989-470b-3e15-0e1ee6cc4fdb&ie=UTF8&linkCode=xm2&ref_=dv_web_dp_mv_play_feature&territory=AU#Intent;scheme=https;package=com.amazon.avod.thirdpartyclient;end",
+            "deeplink_ios": "https://app.primevideo.com/watch?contentType=TV&gti=amzn1.dv.gti.deafd215-2989-470b-3e15-0e1ee6cc4fdb&ie=UTF8&linkCode=xm2&ref_=dv_web_dp_mv_play_feature&territory=AU"
+          },
+          "subtitle_languages": [
+            "en"
+          ],
+          "audio_languages": [
+            "en"
+          ],
+          "presentation_type": "hd",
+          "element_count": 1,
+          "new_element_count": 1,
+          "date_created_provider_id": "2019-03-08_119",
+          "date_created": "2019-03-08",
+          "country": "AU"
+        },
+        {
+          "type": "aggregated",
+          "monetization_type": "flatrate",
+          "provider_id": 119,
+          "urls": {
+            "standard_web": "https://www.primevideo.com/detail/Lady-President-OR-How-I-Learned-to-Stop-Worrying-About-Idiots-and-Their-Dumb-Female-Stereotypes/0M6KCFR8CGYZE2EPDBJL2R6GAR?ie=UTF8&linkCode=xm2"
+          },
+          "subtitle_languages": [
+            "en"
+          ],
+          "audio_languages": [
+            "en"
+          ],
+          "presentation_type": "sd",
+          "element_count": 1,
+          "new_element_count": 1,
+          "date_created_provider_id": "2019-03-08_119",
+          "date_created": "2019-03-08",
+          "country": "AU"
+        }
+      ],
+      "scoring": [
+        {
+          "provider_type": "imdb:score",
+          "value": 7.3
+        },
+        {
+          "provider_type": "tmdb:popularity",
+          "value": 0.631
+        }
+      ],
+      "external_ids": [
+        {
+          "provider": "imdb",
+          "external_id": "tt2030927"
+        },
+        {
+          "provider": "tmdb",
+          "external_id": "40401"
+        }
+      ],
+      "original_language": "ko",
+      "max_season_number": 1
+    },
+    {
+      "id": 87508,
+      "title": "The Big Picture",
+      "full_path": "/au/movie/the-big-picture",
+      "full_paths": {
+        "MOVIE_DETAIL_OVERVIEW": "/au/movie/the-big-picture"
+      },
+      "poster": "/poster/9097350/{profile}",
+      "short_description": "Paul Exben is a success story – partner in one of Paris's most exclusive law firms, big salary, big house, glamorous wife and two sons straight out of a Gap catalog. But when he finds out that Sarah, his wife, is cheating on him with Greg Kremer, a local photographer, a rush of blood provokes Paul into a fatal error.",
+      "original_release_year": 2010,
+      "tmdb_popularity": 4.62,
+      "object_type": "movie",
+      "original_title": "L'homme qui voulait vivre sa vie",
+      "offers": [
+        {
+          "monetization_type": "buy",
+          "provider_id": 3,
+          "retail_price": 5.99,
+          "currency": "AUD",
+          "urls": {
+            "standard_web": "https://play.google.com/store/movies/details/The_Big_Picture?gl=AU&hl=en&id=GOAwcbL5LcM"
+          },
+          "presentation_type": "sd",
+          "date_created_provider_id": "2018-09-05_3",
+          "date_created": "2018-09-05",
+          "country": "AU"
+        },
+        {
+          "monetization_type": "rent",
+          "provider_id": 24,
+          "retail_price": 3.99,
+          "currency": "AUD",
+          "urls": {
+            "standard_web": "https://www.quickflix.com.au/Catalogue/Movies/TheBigPicture/T63982"
+          },
+          "presentation_type": "sd",
+          "date_created_provider_id": "2015-11-05_24",
+          "date_created": "2015-11-05",
+          "country": "AU"
+        }
+      ],
+      "scoring": [
+        {
+          "provider_type": "tomato_userrating:score",
+          "value": 63
+        },
+        {
+          "provider_type": "tmdb:popularity",
+          "value": 4.62
+        },
+        {
+          "provider_type": "tmdb:id",
+          "value": 51071
+        },
+        {
+          "provider_type": "metacritic:score",
+          "value": 71
+        },
+        {
+          "provider_type": "tomato:id",
+          "value": 771206918
+        },
+        {
+          "provider_type": "imdb:score",
+          "value": 6.7
+        },
+        {
+          "provider_type": "tmdb:score",
+          "value": 6.3
+        },
+        {
+          "provider_type": "tomato:rating",
+          "value": 1
+        },
+        {
+          "provider_type": "tomato_userrating:meter",
+          "value": 63
+        },
+        {
+          "provider_type": "tomato:score",
+          "value": 88
+        },
+        {
+          "provider_type": "tomato_userrating:rating",
+          "value": 2
+        },
+        {
+          "provider_type": "tomato:meter",
+          "value": 86
+        }
+      ],
+      "external_ids": [
+        {
+          "provider": "tmdb",
+          "external_id": "51071"
+        },
+        {
+          "provider": "imdb",
+          "external_id": "tt1533818"
+        }
+      ],
+      "original_language": "fr",
+      "runtime": 111
+    }
+  ]
+}

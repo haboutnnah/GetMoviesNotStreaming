@@ -1,0 +1,197 @@
+{
+  "total_results": 2,
+  "items": [
+    {
+      "id": 47834,
+      "title": "M",
+      "full_path": "/au/movie/m",
+      "full_paths": {
+        "MOVIE_DETAIL_OVERVIEW": "/au/movie/m"
+      },
+      "poster": "/poster/8674739/{profile}",
+      "short_description": "In this classic German thriller, Hans Beckert, a serial killer who preys on children, becomes the focus of a massive Berlin police manhunt. Beckert's heinous crimes are so repellant and disruptive to city life that he is even targeted by others in the seedy underworld network. With both cops and criminals in pursuit, the murderer soon realizes that people are on his trail, sending him into a tense, panicked attempt to escape justice.",
+      "original_release_year": 1931,
+      "tmdb_popularity": 8.798,
+      "object_type": "movie",
+      "original_title": "M - Eine Stadt sucht einen Mörder",
+      "offers": [
+        {
+          "monetization_type": "flatrate",
+          "provider_id": 119,
+          "urls": {
+            "standard_web": "https://www.primevideo.com/detail/M-Eine-Stadt-Sucht-Einen-Moerder-Starring-Peter-Lorre-1931/0PDOCQ5CEHOPUJY6AX3INZ1937?ie=UTF8&linkCode=xm2",
+            "deeplink_android": "intent://app.primevideo.com/watch?contentType=Movie&gti=amzn1.dv.gti.acb2714f-a381-cc69-c1e5-d5ab4b198343&ie=UTF8&linkCode=xm2&ref_=dv_web_dp_mv_play_feature&territory=AU#Intent;scheme=https;package=com.amazon.avod.thirdpartyclient;end",
+            "deeplink_ios": "https://app.primevideo.com/watch?contentType=Movie&gti=amzn1.dv.gti.acb2714f-a381-cc69-c1e5-d5ab4b198343&ie=UTF8&linkCode=xm2&ref_=dv_web_dp_mv_play_feature&territory=AU",
+            "deeplink_android_tv": "amzn1.dv.gti.acb2714f-a381-cc69-c1e5-d5ab4b198343"
+          },
+          "audio_languages": [
+            "en"
+          ],
+          "presentation_type": "sd",
+          "date_created_provider_id": "2019-01-20_119",
+          "date_created": "2019-01-20",
+          "country": "AU"
+        },
+        {
+          "monetization_type": "flatrate",
+          "provider_id": 119,
+          "urls": {
+            "standard_web": "https://www.primevideo.com/detail/M-Eine-Stadt-Sucht-Einen-Moerder-Starring-Peter-Lorre-1931/0PDOCQ5CEHOPUJY6AX3INZ1937?ie=UTF8&linkCode=xm2",
+            "deeplink_android": "intent://app.primevideo.com/watch?contentType=Movie&gti=amzn1.dv.gti.acb2714f-a381-cc69-c1e5-d5ab4b198343&ie=UTF8&linkCode=xm2&ref_=dv_web_dp_mv_play_feature&territory=AU#Intent;scheme=https;package=com.amazon.avod.thirdpartyclient;end",
+            "deeplink_ios": "https://app.primevideo.com/watch?contentType=Movie&gti=amzn1.dv.gti.acb2714f-a381-cc69-c1e5-d5ab4b198343&ie=UTF8&linkCode=xm2&ref_=dv_web_dp_mv_play_feature&territory=AU",
+            "deeplink_android_tv": "amzn1.dv.gti.acb2714f-a381-cc69-c1e5-d5ab4b198343"
+          },
+          "audio_languages": [
+            "en"
+          ],
+          "presentation_type": "hd",
+          "date_created_provider_id": "2019-01-20_119",
+          "date_created": "2019-01-20",
+          "country": "AU"
+        },
+        {
+          "monetization_type": "flatrate",
+          "provider_id": 191,
+          "urls": {
+            "standard_web": "https://www.kanopy.com/product/m"
+          },
+          "presentation_type": "sd",
+          "date_created_provider_id": "2018-03-21_191",
+          "date_created": "2018-03-21",
+          "country": "AU"
+        }
+      ],
+      "scoring": [
+        {
+          "provider_type": "tomato_userrating:rating",
+          "value": 2
+        },
+        {
+          "provider_type": "tomato_userrating:meter",
+          "value": 95
+        },
+        {
+          "provider_type": "tomato:id",
+          "value": 17470
+        },
+        {
+          "provider_type": "tmdb:popularity",
+          "value": 8.798
+        },
+        {
+          "provider_type": "imdb:score",
+          "value": 8.3
+        },
+        {
+          "provider_type": "tmdb:id",
+          "value": 832
+        },
+        {
+          "provider_type": "tomato_userrating:score",
+          "value": 95
+        },
+        {
+          "provider_type": "tomato:rating",
+          "value": 1
+        },
+        {
+          "provider_type": "tmdb:score",
+          "value": 8.1
+        },
+        {
+          "provider_type": "tomato:score",
+          "value": 100
+        },
+        {
+          "provider_type": "tomato:meter",
+          "value": 100
+        }
+      ],
+      "external_ids": [
+        {
+          "provider": "imdb",
+          "external_id": "tt0022100"
+        },
+        {
+          "provider": "tmdb",
+          "external_id": "832"
+        }
+      ],
+      "original_language": "de",
+      "runtime": 117
+    },
+    {
+      "id": 57058,
+      "title": "Rehearsal for Murder",
+      "full_path": "/au/movie/rehearsal-for-murder",
+      "full_paths": {
+        "MOVIE_DETAIL_OVERVIEW": "/au/movie/rehearsal-for-murder"
+      },
+      "poster": "/poster/8829013/{profile}",
+      "short_description": "A year after his fiancée's death, a playwright schedules a rehearsal for his new play, which proves to be a trap for her killer.",
+      "original_release_year": 1982,
+      "tmdb_popularity": 0.786,
+      "object_type": "movie",
+      "original_title": "Rehearsal for Murder",
+      "offers": [
+        {
+          "monetization_type": "ads",
+          "provider_id": 73,
+          "urls": {
+            "standard_web": "https://tubitv.com/movies/326255"
+          },
+          "presentation_type": "sd",
+          "date_created_provider_id": "2018-04-10_73",
+          "date_created": "2018-04-10",
+          "country": "AU"
+        }
+      ],
+      "scoring": [
+        {
+          "provider_type": "tomato:id",
+          "value": 770792548
+        },
+        {
+          "provider_type": "imdb:score",
+          "value": 7
+        },
+        {
+          "provider_type": "tmdb:popularity",
+          "value": 0.786
+        },
+        {
+          "provider_type": "tomato_userrating:rating",
+          "value": 2
+        },
+        {
+          "provider_type": "tmdb:id",
+          "value": 66108
+        },
+        {
+          "provider_type": "tomato_userrating:meter",
+          "value": 67
+        },
+        {
+          "provider_type": "tomato_userrating:score",
+          "value": 64
+        },
+        {
+          "provider_type": "tmdb:score",
+          "value": 6.8
+        }
+      ],
+      "external_ids": [
+        {
+          "provider": "tmdb",
+          "external_id": "66108"
+        },
+        {
+          "provider": "imdb",
+          "external_id": "tt0084582"
+        }
+      ],
+      "original_language": "en",
+      "runtime": 96
+    }
+  ]
+}

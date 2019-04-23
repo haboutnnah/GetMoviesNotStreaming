@@ -1,0 +1,163 @@
+{
+  "total_results": 2,
+  "items": [
+    {
+      "id": 58806,
+      "title": "Rashomon",
+      "full_path": "/au/movie/rashomon",
+      "full_paths": {
+        "MOVIE_DETAIL_OVERVIEW": "/au/movie/rashomon"
+      },
+      "poster": "/poster/8741620/{profile}",
+      "short_description": "Brimming with action while incisively examining the nature of truth, \"Rashomon\" is perhaps the finest film ever to investigate the philosophy of justice. Through an ingenious use of camera and flashbacks, Kurosawa reveals the complexities of human nature as four people recount different versions of the story of a man's murder and the rape of his wife.",
+      "original_release_year": 1950,
+      "tmdb_popularity": 9.719,
+      "object_type": "movie",
+      "original_title": "羅生門",
+      "offers": [
+        {
+          "monetization_type": "flatrate",
+          "provider_id": 191,
+          "urls": {
+            "standard_web": "https://www.kanopy.com/product/rashomon"
+          },
+          "presentation_type": "sd",
+          "date_created_provider_id": "2018-03-21_191",
+          "date_created": "2018-03-21",
+          "country": "AU"
+        }
+      ],
+      "scoring": [
+        {
+          "provider_type": "tomato_userrating:meter",
+          "value": 93
+        },
+        {
+          "provider_type": "tmdb:score",
+          "value": 8.2
+        },
+        {
+          "provider_type": "tomato:id",
+          "value": 17052
+        },
+        {
+          "provider_type": "imdb:score",
+          "value": 8.3
+        },
+        {
+          "provider_type": "tmdb:popularity",
+          "value": 9.719
+        },
+        {
+          "provider_type": "tomato:rating",
+          "value": 1
+        },
+        {
+          "provider_type": "tomato:meter",
+          "value": 98
+        },
+        {
+          "provider_type": "tmdb:id",
+          "value": 548
+        }
+      ],
+      "external_ids": [
+        {
+          "provider": "imdb",
+          "external_id": "tt0042876"
+        },
+        {
+          "provider": "tmdb",
+          "external_id": "548"
+        }
+      ],
+      "original_language": "ja",
+      "runtime": 88
+    },
+    {
+      "id": 41864,
+      "title": "Yojimbo",
+      "full_path": "/au/movie/yojimbo",
+      "full_paths": {
+        "MOVIE_DETAIL_OVERVIEW": "/au/movie/yojimbo"
+      },
+      "poster": "/poster/35455909/{profile}",
+      "short_description": "A nameless ronin, or samurai with no master, enters a small village in feudal Japan where two rival businessmen are struggling for control of the local gambling trade. Taking the name Sanjuro Kuwabatake, the ronin convinces both silk merchant Tazaemon and sake merchant Tokuemon to hire him as a personal bodyguard, then artfully sets in motion a full-scale gang war between the two ambitious and unscrupulous men.",
+      "original_release_year": 1961,
+      "tmdb_popularity": 7.066,
+      "object_type": "movie",
+      "original_title": "用心棒",
+      "offers": [
+        {
+          "monetization_type": "flatrate",
+          "provider_id": 191,
+          "urls": {
+            "standard_web": "https://www.kanopy.com/product/yojimbo-0"
+          },
+          "presentation_type": "sd",
+          "date_created_provider_id": "2018-03-21_191",
+          "date_created": "2018-03-21",
+          "country": "AU"
+        }
+      ],
+      "scoring": [
+        {
+          "provider_type": "tomato_userrating:score",
+          "value": 96
+        },
+        {
+          "provider_type": "tomato:score",
+          "value": 97
+        },
+        {
+          "provider_type": "tomato_userrating:rating",
+          "value": 2
+        },
+        {
+          "provider_type": "tmdb:score",
+          "value": 8.1
+        },
+        {
+          "provider_type": "tmdb:popularity",
+          "value": 7.066
+        },
+        {
+          "provider_type": "tomato:id",
+          "value": 17236
+        },
+        {
+          "provider_type": "tmdb:id",
+          "value": 11878
+        },
+        {
+          "provider_type": "tomato:meter",
+          "value": 97
+        },
+        {
+          "provider_type": "imdb:score",
+          "value": 8.3
+        },
+        {
+          "provider_type": "tomato:rating",
+          "value": 2
+        },
+        {
+          "provider_type": "tomato_userrating:meter",
+          "value": 96
+        }
+      ],
+      "external_ids": [
+        {
+          "provider": "imdb",
+          "external_id": "tt0055630"
+        },
+        {
+          "provider": "tmdb",
+          "external_id": "11878"
+        }
+      ],
+      "original_language": "ja",
+      "runtime": 110
+    }
+  ]
+}
