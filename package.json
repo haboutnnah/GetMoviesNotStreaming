@@ -1,0 +1,15 @@
+{
+  "name": "250check",
+  "version": "1.0.0",
+  "description": "",
+  "main": "check.js",
+  "scripts": {
+    "start": "check.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "GPL-3.0-or-later",
+  "dependencies": {
+    "justwatch-api": "^1.0.6"
+  }
+}
